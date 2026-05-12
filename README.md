@@ -6,8 +6,11 @@ Bugs of Planet Dune takes place in a sandy, dune‑covered environment filled wi
 
 ## Controls 🎮
 W / A / S / D — Move
+
 Mouse Cursor — Aim
+
 Left Mouse Button — Shoot
+
 Escape Button — Pause the game
 
 ## Hint 💡
