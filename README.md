@@ -22,9 +22,8 @@ Bugs of Planet Dune includes a variety of mechanics designed to create a tense a
 ## Web Builds 🌐
 Play Bugs of Planet Dune directly in your browser:
 
-Itch.io: https://captain-garneto.itch.io/bugs-of-planet-dune
-
-Unity Play: https://play.unity.com/en/games/e9fe1314-c921-45b2-aa41-f95cbf837949/bugs-of-planet-dune
+- [**Itch Games**](https://captain-garneto.itch.io/bugs-of-planet-dune)
+- [**Unity Play**](https://play.unity.com/en/games/e9fe1314-c921-45b2-aa41-f95cbf837949/bugs-of-planet-dune)
 
 ## Notes 📘
 This project was created to practice 3D world building, enemy AI behavior, shooting mechanics, and key‑based progression systems. It also includes environmental design, hazard placement, and gameplay balancing. Bugs of Planet Dune is part of my ongoing development as a Unity programmer and game designer.
@@ -32,11 +31,9 @@ This project was created to practice 3D world building, enemy AI behavior, shoot
 ## Author 👤
 **Daniel Anthony Rozek**
 
-Portfolio: https://crispruby.github.io/
-
-LinkedIn: https://www.linkedin.com/in/danielrozek/
-
-GitHub: https://github.com/crispruby
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
