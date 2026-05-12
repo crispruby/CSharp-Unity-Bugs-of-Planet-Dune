@@ -27,7 +27,7 @@ Unity Play: https://play.unity.com/en/games/e9fe1314-c921-45b2-aa41-f95cbf837949
 This project was created to practice 3D world building, enemy AI behavior, shooting mechanics, and key‑based progression systems. It also includes environmental design, hazard placement, and gameplay balancing. Bugs of Planet Dune is part of my ongoing development as a Unity programmer and game designer.
 
 ## Author 👤
-** Daniel Anthony Rozek **
+**Daniel Anthony Rozek**
 
 Portfolio: https://crispruby.github.io/
 
